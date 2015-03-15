@@ -1,10 +1,3 @@
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
-
 ## Loading and preprocessing the data
 ```{r, results = "asis", echo = TRUE, warning=FALSE, comment = NA}
 #unzip the zip file and read in the csv file
